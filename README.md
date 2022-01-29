@@ -1,1 +1,1 @@
-# autoTyoe
+# Auto-type
